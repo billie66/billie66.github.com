@@ -11,6 +11,8 @@ margin-left: 50px;
 margin-right: 100px;
 }
 
+/*Remove the line under links*/
+a {text-decoration:none;}
 
 /*this is very important for me*/
 .example { margin-left: 3% }
