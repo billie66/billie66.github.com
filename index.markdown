@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<br/>
 <h1 style="text-align:center">Billie HomePage</h1>
 
 <br />
