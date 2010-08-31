@@ -7,7 +7,7 @@ layout: default
 <br />
 
 <p>
-Welcome, I am Billie Zhang, a open source enthusiast. 
+Welcome, I am Billie Zhang, an open source enthusiast. 
 </p>
 
 
