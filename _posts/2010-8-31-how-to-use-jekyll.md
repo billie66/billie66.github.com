@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ## basic
 
 this site is configed to use __markdown__ syntax
