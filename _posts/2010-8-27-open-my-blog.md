@@ -2,18 +2,17 @@
 layout: post
 ---
 
-Well, it's a wonderful day! Finally, I open my blog in the github. I wanted to 
-create a blog for a long time, especially when I saw a nice blog, but I thought 
-it is too difficult to do. Luckily, thanks to open source, then there are many 
-patterns to which I can refer. 
+What a wonderful day! Finally, I opened my blog at github. I wanted to own a
+blog a long time ago, especially when I saw a nice blog, but I thought it was
+too difficult. Thanks to open source, there are many styles I can refer to.
 
-Now I only need to write my notes in terms of markdown in vim editor, nothing 
-else I should care about. Though the blog isn't perfect and is simply, it is 
-enough to me. I think more simpler more better, because that means I can concentrate 
-on content, rather than forms.
+Now I only need to write my blogs in markdown with vim editor, nothing else I
+need to care about. Though the blog isn't perfect, it is enough for me. I
+think the simpler the better, because that means I can concentrate on content,
+rather than forms.
 
-It's really good, just think that I can share my documents and joy with others when
-I own the blog.
+It's really good, just think about that I can share my documents and joy with
+others when I own the blog.
 
-That's all. I will often update my blog, and I will also add some small stuffs to 
-decorate it and make it pretty. 
+That's all. I will often update my blog, and I will also add some small stuff
+to decorate it and make it pretty. 
