@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 I attended the Coding for Fun at Exoweb office on Saturday, September 4th
 2010. The event is held monthly by BLUG. It was the first BLUG activity that I
 joined for the first time, so it was really meaningful. Well, this bog should
