@@ -52,9 +52,9 @@ audiences and wrote down on the board. First, Oulo introduced himself and
 his project, in a quick way. Then is XueDi, and so on. I felt better now and 
 I knew what I should say. It turned to me. I said the following words.
 
->My English name is Billie Jean, a song name. I have been working on a project
->named QGit. I trace my codedata with Cscope and manage my code with Git. Git
->is a really powerful tool. Ok, thanks.
+    My English name is Billie Jean, a song name. I have been working on a project
+    named QGit. I trace my codedata with Cscope and manage my code with Git. Git
+    is a really powerful tool. Ok, thanks.
 
 After my speech, everyone gave me warm applause. It was very kind of them.I was 
 very delight.
