@@ -2,7 +2,7 @@
 layout: post
 ---
 
-I want to access YouTube, but it is blocked in China. Is there any
+I want to access _YouTube_ , but it is blocked in China. Is there any
 methods to jump over the great firewall? Luckily, I find a good website
 <http://deturl.com/> which can download videos from YouTube.
 
@@ -31,6 +31,6 @@ _youtube_ in the search bar and hit enter. A web page shows up, including much
 powerful function. Below the subtitle `Download the video as FLV or MP4 files`,
 click `Dirpy` in the first line, the real web page where can download the video
 will appear. Select a needed video format, then the video will be downloaded
-from YouTube.
+from _YouTube_ .
 
 ### enjoy it
