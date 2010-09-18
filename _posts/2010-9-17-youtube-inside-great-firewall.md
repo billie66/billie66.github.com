@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 I want to access YouTube, but it is blocked in China. Is there any
 methods to jump over the great firewall? Luckily, I find a good website
 <http://deturl.com/> which can download videos from YouTube.
