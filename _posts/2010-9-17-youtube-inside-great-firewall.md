@@ -18,11 +18,11 @@ search engines available in the search bar.
 After you have installed the search bar tool. The next step is to find URL of
 the video that you want to download from YouTube. How can you do this? You can
 use a search engine that you prefer to get their URL. For example, if you need
-some videos about _Git_, you just type `site: youtube git`(there is a space
-following `:`) in Google search bar, then Google will display all the relating
-items. Click a proper item, a new window will be opened. Of course, there is
-nothing to be displayed except some error messages, but the selected video URL
-is in the address bar.
+some videos about _Git_, you just type `site: youtube git` (there is a space
+following "`:`") in Google search bar, then Google will display all the
+relating items. Click a proper item, a new window will be opened. Of course,
+there is nothing to be displayed except some error messages, but the selected
+video URL is in the address bar.
 
 ### download video
 
