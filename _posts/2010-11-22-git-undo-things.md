@@ -55,28 +55,28 @@ you have made recently in working tree. You can use [_git reset_] [2].
     $ echo "its colour is black" >> cat
     $ git add .
     $ git status 
-     # On branch master
-     # Changes to be committed:
-     #   (use "git reset HEAD <file>..." to unstage)
-     #
-     #   modified:   cat
-     #   new file:   dog
-     #
+    # On branch master
+    # Changes to be committed:
+    #   (use "git reset HEAD <file>..." to unstage)
+    #
+    #   modified:   cat
+    #   new file:   dog
+    #
     $ git reset HEAD 
     Unstaged changes after reset:
     M   cat
     $ git status 
-     # On branch master
-     # Changed but not updated:
-     #   (use "git add <file>..." to update what will be committed)
-     #   (use "git checkout -- <file>..." to discard changes in working directory)
-     #
-     #   modified:   cat
-     #
-     # Untracked files:
-     #   (use "git add <file>..." to include in what will be committed)
-     #
-     #   dog
+    # On branch master
+    # Changed but not updated:
+    #   (use "git add <file>..." to update what will be committed)
+    #   (use "git checkout -- <file>..." to discard changes in working directory)
+    #
+    #   modified:   cat
+    #
+    # Untracked files:
+    #   (use "git add <file>..." to include in what will be committed)
+    #
+    #   dog
     no changes added to commit (use "git add" and/or "git commit -a")
     $ git add .
     $ git reset --hard HEAD 
@@ -138,5 +138,5 @@ recent commit.
     $ cat cat 
     $ 
 
-A good link about this topic
-<http://book.git-scm.com/4_undoing_in_git_-_reset,_checkout_and_revert.html>
+A good link about this topic [git community book] [3]
+[3]: http://book.git-scm.com/4_undoing_in_git_-_reset,_checkout_and_revert.html
