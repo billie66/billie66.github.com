@@ -30,7 +30,7 @@ on the glass wall.The office was like a home, not a company. All the people
 upstairs, were all friendly, and we said hi to each other.
 
 There were three foreigners who were the core members of BLUG. I knew the
-handsome one was Xuedi, the tall and strong one was ollo. Peter always
+handsome one was Xuedi, the tall and strong one was Ollo. Peter always
 mentioned them to me. I saw them finally.
 
 There were many blank positions in the meeting room, so we found two chairs to
@@ -54,7 +54,7 @@ I knew what I should say. When it came to my turn. I said the following words:
 
     My English name is Billie Jean, name of a song . I have been working on a project
     named QGit. I trace my code base with Cscope and manage my code with Git. Git
-    is a really powerful tool. Ok, thanks.
+    is a really powerful tool. 
 
 After my speech, everyone gave me warm applause. It was very kind of them. I was 
 very delighted.
