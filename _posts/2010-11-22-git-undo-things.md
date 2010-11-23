@@ -26,8 +26,8 @@ something.
 
 ## discard changes in working directory
 
-If you want to discard all changes about a file, you can use [_git checkout_]
-[1], for example: 
+If you want to discard all changes about a file, you can 
+use [_git checkout_] [1], for example: 
 
     $ cat cat
     $ echo "a lovely cat" > cat
