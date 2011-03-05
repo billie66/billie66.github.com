@@ -22,7 +22,7 @@ Welcome, I am Billie Zhang, an open source enthusiast.
 
 <blockquote>
 <p>
-billie.jean.zhang at gmail.com
+billiecoder at gmail.com
 </p>
 </blockquote>
 
