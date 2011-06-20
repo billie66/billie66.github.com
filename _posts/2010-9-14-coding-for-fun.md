@@ -9,7 +9,7 @@ been written several days ago, it was postponed because my right eye felt bad
 looking at the screen these days.
 
 The event began at 11AM. Peter and I went there at about 9 O'clock in the
-morning, but we reached the destination at nearly 1PM. We were not familiar with
+morning, but we reached the destination at nearly 1pm. We were not familiar with
 that region, therefore we spent most of time on the trip and little time
 enjoying our lunch.
 
@@ -25,9 +25,10 @@ Finally, we got to the place. The Exoweb office was not large but neat, tidy
 and colorful. In the middle of the office, there was a staircase to the
 resting room and meeting room. The resting room was very cute and comfortable,
 on the left side a big yellow shelf was filled with a lot of English technical
-books, several musical instruments leaning against a sofa, and many staff's
-funny portraits on the glass wall. The office was like a home, not a company.
-All the people upstairs, were all friendly, and we said hi to each other.
+books, several musical instruments leaning against a sofa, and many staffs'
+perfect photographs adhering to the glass wall. The office was like a home,
+not a company. All the people in the upstairs room, were all friendly, and we
+said hi to each other.
 
 There were three foreigners who were the core members of BLUG. I knew the
 handsome one was Xuedi, the tall and strong one was Ollo. Peter always
@@ -38,14 +39,14 @@ sit on, and laid our laptop on the table. A boy told us the wifi password, then 
 could use wireless to access web. 
 
 New attender arrived continually. All attenders were men except me, and they
-talked happily.  About 4PM, a girl showed up in the office. I felt really
+talked happily.  About 4pm, a girl showed up in the office. I felt really
 happy. The girl called Rui who had worked in IT field for six years. She was
 interested in piano, so she was busy with a project named _drumstick_ which
 simulated piano using computer keyboard. The project was really interesting.
 She also used Qt, but she mainly used Eclipse in windows. She told me how to
 install Eclipse supporting C++ in Ubuntu. I appreciated her help.
 
-At 5PM, the event holder told us it's time to introduce your project to all
+At 5pm, the event holder told us it's time to introduce your project to all
 people. Oh, I felt a little nervous, though people there were kind and lovely.
 Everyone was required to introduce what he or she has done recently to
 audience and wrote down on the board. First, Ollo introduced himself and 
