@@ -21,7 +21,6 @@ Welcome, I am Billie Zhang, an open source enthusiast and a self-learner.
 <p><br /><b>My Project</b></p>
 <ul>
 <li><a href="https://github.com/billie66">Github</a></li>
-<br />
 <li><a href="http://billie66.github.com/TLCL/index.html">Book</a></li>
 </ul>
 
