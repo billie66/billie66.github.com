@@ -7,7 +7,7 @@ layout: default
 <br />
 
 <p>
-Welcome, I am Billie Zhang, an open source enthusiast. 
+Welcome, I am Billie Zhang, an open source enthusiast and a self-learner. 
 </p>
 
 
@@ -18,8 +18,13 @@ Welcome, I am Billie Zhang, an open source enthusiast.
     {% endfor %}
   </ul>
 
-<p><br /><b>Contact Information:</b></p>
+<p><br /><b>My Project</b></p>
+<ul>
+<li><a href="https://github.com/billie66">git hub</a></li>
+<li><a href="http://billie66.github.com/TLCL/index.html">book</a></li>
+</ul>
 
+<p><br /><b>Contact Information:</b></p>
 <blockquote>
 <p>
 billiecoder at gmail.com
