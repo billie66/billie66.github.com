@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ### how to encrypt and decrypt a file
 
 I find three methods to encrypt/decrypt a single file. Those ways use
