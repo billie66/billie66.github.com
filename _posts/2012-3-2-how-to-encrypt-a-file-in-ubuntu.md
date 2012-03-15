@@ -21,7 +21,7 @@ we could do this:
 After run this command, you will get prompt at the bottom of your screen.
 
 <div class="code"><pre>
-<tt> Enter encryption key: 
+<tt>Enter encryption key: 
 Enter same key again: </tt>
 </pre></div>
 
