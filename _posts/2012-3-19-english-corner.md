@@ -23,4 +23,4 @@ The time passed so quickly. Two hours later, we said goodbye to Steven. As far
 as I can concerned, the whole talk was very happy, active and relaxing, and I
 found my English level was much better than before.  
 
-[1]: www.happyec.org
+[1]: http://www.happyec.org
