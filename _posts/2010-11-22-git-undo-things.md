@@ -27,7 +27,8 @@ something.
 ### discard changes in working directory
 
 If you want to discard all changes about a file, you can 
-use [_git checkout_] [1], for example: 
+use [_git checkout_](http://www.kernel.org/pub/software/scm/git/docs/git-checkout.html),
+for example:
 
     $ cat cat
     $ echo "a lovely cat" > cat
@@ -45,7 +46,6 @@ use [_git checkout_] [1], for example:
     $ git checkout -- cat
     $ cat cat 
     $ 
-[1]: http://www.kernel.org/pub/software/scm/git/docs/git-checkout.html 
 
 If you want to keep the same content with the last commit, undo everything that 
 you have made recently in working tree. You can use [_git reset_] [2].
