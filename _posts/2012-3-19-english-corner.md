@@ -22,3 +22,5 @@ good chance to speak English face to face with a foreigner.
 The time passed so quickly. Two hours later, we said goodbye to Steven. As far
 as I can concerned, the whole talk was very happy, active and relaxing, and I
 found my English level was much better than before.  
+
+[1]: happyec.org
