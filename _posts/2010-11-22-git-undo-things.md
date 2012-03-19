@@ -14,7 +14,7 @@ I took a note of it in case of forgetting the method.
 Now, I will use an example to explain how to use these basic tools for undoing
 something.
 
-## create a repo
+### create a repo
 
      $ mkdir test
      $ cd test/
@@ -24,7 +24,7 @@ something.
      $ git add cat
      $ git commit -m "initial"
 
-## discard changes in working directory
+### discard changes in working directory
 
 If you want to discard all changes about a file, you can 
 use [_git checkout_] [1], for example: 
@@ -87,7 +87,7 @@ you have made recently in working tree. You can use [_git reset_] [2].
     $ 
 [2]: http://www.kernel.org/pub/software/scm/git/docs/git-reset.html
 
-## delete the last commit 
+### delete the last commit 
 
 If you commited some stuff, but you realize that you did something wrong and
 want to delete the last commit. How to settle this? Use _git reset_ again.
