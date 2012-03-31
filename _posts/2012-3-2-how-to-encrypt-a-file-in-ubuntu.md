@@ -2,8 +2,6 @@
 layout: post
 ---
 
-## how to encrypt and decrypt a file
-
 I find three methods to encrypt/decrypt a single file. Those ways use
 different utilities respectively, which are vim, gpg and openssl. I prefer
 to use vim, because vim is really convenient. I will cover two of them.
