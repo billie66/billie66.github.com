@@ -2,13 +2,13 @@
 layout: post
 ---
 
-### how to encrypt and decrypt a file
+## how to encrypt and decrypt a file
 
 I find three methods to encrypt/decrypt a single file. Those ways use
 different utilities respectively, which are vim, gpg and openssl. I prefer
 to use vim, because vim is really convenient. I will cover two of them.
 
-#### vim
+### vim
 
 For example, I have a file named `info` including many important information in
 my home directory, so I don't want others to read it. To encrypt this file,
@@ -47,7 +47,7 @@ Enter same key again: </tt>
 Note once you encrypted your file, you will not get its cleartext back unless you
 remember the encryption key.
 
-#### gpg
+### gpg
 gpg is another tool to encrypt files. Check gpg man page for more details. You
 can use it like this:
 

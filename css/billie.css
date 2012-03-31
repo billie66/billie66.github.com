@@ -14,10 +14,20 @@ body {
 }
 
 /*Remove the line under links*/
-a {text-decoration: none;}
+a {
+  text-decoration: none;
+}
 
 /*this is very important for me*/
-pre { margin-left: 3% }
+pre { 
+  margin-left: 3%;
+}
 
-h1 { font-size: 150%; }
+h1 { 
+  font-size: 3em;
+}
+
+h3 { 
+  font-size: 1.5em; 
+}
 
