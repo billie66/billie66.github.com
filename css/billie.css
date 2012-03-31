@@ -6,7 +6,8 @@
 */
 body {
   background-color: #1cd91c;
-  font: helvetica,arial,freesans,clean,sans-serif;
+  font-family: Helvetica, Arial, FreeSans, san-serif;
+  line-height: 1.4em;
   margin-left: 250px;
   margin-right: 250px;
 }
