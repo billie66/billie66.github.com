@@ -5,14 +5,14 @@
         
 */
 body {
-  background-color:#1cd91c;
-  font: 15px helvetica,arial,freesans,clean,sans-serif;
+  background-color: #1cd91c;
+  font: helvetica,arial,freesans,clean,sans-serif;
   margin-left: 250px;
   margin-right: 250px;
 }
 
 /*Remove the line under links*/
-a {text-decoration:none;}
+a {text-decoration: none;}
 
 /*this is very important for me*/
 pre { margin-left: 3% }
