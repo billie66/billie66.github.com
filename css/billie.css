@@ -4,11 +4,11 @@
 	http://www.nodethirtythree.com
         
 */
-body
-{
-background-color:#1cd91c;
-margin-left: 250px;
-margin-right: 250px;
+body {
+  background-color:#1cd91c;
+  font-family: Helvetica, Arial, FreeSans, sans-serif;
+  margin-left: 250px;
+  margin-right: 250px;
 }
 
 /*Remove the line under links*/
