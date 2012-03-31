@@ -19,33 +19,3 @@ pre { margin-left: 3% }
 
 h1 { font-size: 150%; }
 
-#menu
-{
-position: relative;
-background: #dbdbdb no-repeat;
-height: 40px;
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 10px 0px;
-}
-
-#menu ul li
-{
-display: inline;
-line-height: 40px;
-padding-left: 3px;
-}
-
-#menu ul li.first
-{
-border-left: 0px;
-}
-
-#menu ul li a
-{
-background-color: transparent;
-background-repeat: repeat-x;
-padding: 8px 12px 8px 12px;
-font-size: 15px;
-font-weight: bold;
-}
-
