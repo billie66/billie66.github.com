@@ -6,7 +6,7 @@
 */
 body {
   background-color:#1cd91c;
-  font-family: Helvetica, Arial, FreeSans, sans-serif;
+  font: 15px helvetica,arial,freesans,clean,sans-serif;
   margin-left: 250px;
   margin-right: 250px;
 }
