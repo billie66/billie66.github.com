@@ -22,7 +22,7 @@ Welcome, I am Billie Zhang, an open source enthusiast and a self-learner.
 <ul>
 <li><a href="https://github.com/billie66">Github</a></li>
 <li><a href="http://billie66.github.com/TLCL/index.html">Book</a></li>
-<li><a href="http://billie66.github.com/happygrep/index.html">happygrep</a></li>
+<li><a href="http://happypeter.github.com/happygrep/index.html">happygrep</a></li>
 </ul>
 
 <p><br /><b>Contact Information:</b></p>
