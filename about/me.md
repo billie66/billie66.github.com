@@ -14,19 +14,30 @@ Nationality: CHINA citizen
 
 Address: Beijing, P.R.China
 
-Mobile: (+86) 15910662889
-
 Email: billiecoder@gmail.com
 
-Home Page: http://billie66.github.com/
+Home Page: <http://billie66.github.com/>
 
 ### Sentence Bio
 
-Billie Zhang is an open source enthusiast and a self-learner.
+Billie Zhang is a web developer.
 
 ### Github Project
 
-* 
+* [__TLCL__](https://github.com/billie66/TLCL)
+
+This project is to translate [The Linux Command Line](http://linuxcommand.org), 
+the best book for Linux beginners, to Chinese. It is underdevelopment.
+
+* [happygrep](http://happypeter.github.com/happygrep/index.html)
+
+It is just a grep front-end writing in C. I am a contributor.
+
+* [shoppingcart](https://github.com/billie66/shoppingcart)
+
+A Ruby on Rails application from Agile Web Development with Rails. 
+
+* [more](https://github.com/billie66) 
 
 ### Programming Languages
 
@@ -42,11 +53,13 @@ Billie Zhang is an open source enthusiast and a self-learner.
 
 * Git
 
+* Ruby on Rails
+
 * Ubuntu 
 
 ### Education
 
-2007.9 ~ 2010.3: 
+2007.9 ~ 2010.3: North China Electric Power University (postgraduate dropout)
 
 2002.9 ~ 2006.7: Hebei University of Science & Technology
 
@@ -81,4 +94,6 @@ Monitoring and Control
 
 * I have been using English only to do my documentation since 2008. 
 
-*** create and endorse free software as a contribution to the progress of humanity ***
+### Job Interest
+
+I would like to take a job on web developing.
