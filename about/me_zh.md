@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default 
 ---
 
 ### 个人信息
