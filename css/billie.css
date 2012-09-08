@@ -8,7 +8,7 @@ body {
   background-color: #d0e4fe;
   color: #393939;
   font-family: Helvetica, Arial, FreeSans, sans-serif;
-  line-height: 1.4em;
+  line-height: 1.8;
   margin-left: 200px;
   margin-right: 200px;
 }
@@ -18,7 +18,6 @@ a {
   text-decoration: none;
 }
 
-/*this is very important for me*/
 pre { 
   margin-left: 3%;
 }
