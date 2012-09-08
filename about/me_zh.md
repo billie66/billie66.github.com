@@ -20,13 +20,13 @@ layout: default
 
 * [__TLCL__](https://github.com/billie66/TLCL)
 
-我在翻译[The Linux Command Line](http://linuxcommand.org), 一本很好的 Linux
-入门书籍。我是核心译者（没有之一），还有许多朋友 fork 我，帮我翻译了一些。
+ 我在翻译 [The Linux Command Line](http://linuxcommand.org), 一本很好的 Linux
+ 入门书籍。我是核心译者（没有之一），还有许多朋友 fork 我，帮我翻译了一些。
 
 * [__happygrep__](http://happypeter.github.com/happygrep/index.html)
 
-一个基于 ncurses 库, 用 C 语言编写的 grep 命令前端, 可运行在各类 Unix
-系统的终端里。我不是原作者，但是写作了大部分的代码。
+ 一个基于 ncurses 库, 用 C 语言编写的 grep 命令前端, 可运行在各类 Unix
+ 系统的终端里。我不是原作者，但是写作了大部分的代码。
 
 * 目前我主要在学 Ruby on Rails, 在我的 Github 上
   有一些小的项目。详见：<http://www.github.com/billie66>
