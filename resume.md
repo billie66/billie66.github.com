@@ -130,9 +130,9 @@ __Go to__ [Github][github-billie] to view all my projects.
 
 ### Hunting jobs
 
-Recently I mainly focus on web development and want to take on this kind of
+Recently I mainly focus on web development and want to do this kind of
 job. This field is full of amazing and interesting stuff. If you get a good
-idea, you can easily share it with the public. 
+idea, then you can easily share it with the public. 
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
 [labview]:http://en.wikipedia.org/wiki/Labview
@@ -141,7 +141,7 @@ idea, you can easily share it with the public.
 [tlclpage]:http://billie66.github.com/TLCL/index.html
 [lgcb]:http://github.com/happypeter/LGCB
 [lgcbpage]:http://happypeter.github.com/LGCB/index.html
-[happygrep]:http://github.com/billie66/happygrep
+[happygrep]:http://github.com/happypeter/happygrep
 [happygreppage]:http://happypeter.github.com/happygrep/index.html
 [gitsibling]:http://github.com/billie66/gitsibling
 [tata]:http://github.com/billie66/tata
