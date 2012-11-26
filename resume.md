@@ -1,5 +1,6 @@
 ---
 layout: resume 
+title: Billie Resume
 --- 
 
 ### Personal Info
@@ -43,17 +44,17 @@ Billie Zhang is a self-leaner and [Open Source Software][oss] fan.
 __2002.9~2006.7:__ HeBei University of Science & Technology, Mechanical Design
 Manufacturing and Automation, Bachelor's Degree.
 
-When I was studying in the collage , I was such a good student, worked hard
+When I was studying in the college , I was such a good student, worked hard
 for gaining a merit scholarship every year and tried my best to have various
 qualification certificates as many as possible. All the stuff I won during
-the four years were shown in the fellowing list:  
+the four years were shown in the following list:  
  
  - English CET4, CET6 
- - NCRE Level two (C), Level three (IM)
+ - NCRE Level II (C), Level III (IM)
  - a three-year merit scholarship winner
  - a three-year honor roll student 
 
-Because of the major (Automation), Microcomputer Principle was one of our
+Because of my major (Automation), Microcomputer Principle was one of our
 required courses, so I had a chance to learn Assembly language after I knew C
 language. Meanwhile C++, VB and VC were our selective courses. It was all my
 experience with computer language, and I had no idea my profession would be
@@ -62,14 +63,14 @@ related with programming one day.
 __2007.9~2010.3:__ North China Electric Power University, Dropout.
 
 Compared with my college life, the life in NCEPU was totally different. I was
-not a good student since I payed much more attention to do what I wanted to
-do. Actually I wasn't interested in my research subject, which used
+not a good student any more since I payed much more attention to do what I
+wanted to do. Actually I wasn't interested in my research subject, which used
 [Labview][labview] to simulate all the fault conditions of a steam turbine in
 a power plant. It was boring and valueless I thought. I couldn't waste my time
 again. I eagerly wanted to learn a really useful skill. 
 
 Luckily, in the second year in the NCEPU I got to know Linux, and I found the
-right thing I would love to do. The time was tough but happy. What I did as
+right thing I would love to do. The life was tough but exciting. What I did as
 follows: 
 
  - Linux (Ubuntu) platform [Qt](http://qt.nokia.com/) development
@@ -90,18 +91,19 @@ __2006.7 ~ 2006.8__ Triangle Group, WeiHai, ShanDong.
 
 ### Project Summary
 
-__2011.6~now:__ [happycasts][happycasts]
+__2012.10~now:__ [happycasts][happycasts]
 
-This project is the source code of the website <http://happycasts.net> built with
-Ruby on Rails. The owner of this website loves teaching and sharing knowledge
-with people. He offers a video every week about web development skills.
+This project is the source code of the website <http://happycasts.net> built
+with Ruby on Rails. The owner of this website loves teaching and sharing
+knowledge with people. He offers a video every week about web development skills.
 
 I am a contributor for maintaining the front-end and fixing bug.
 
 __2011.6~now:__ [TLCL][tlcl]
 
-TLCL is a chinese version of The Linux Command Line, which is an excellent book for
-Linux beginners. TLCL is a processing project aiming for helping chinese learners.
+TLCL is a chinese version of The Linux Command Line, which is an excellent
+book for Linux beginners. TLCL is a processing project aiming for helping
+chinese learners.
 
 I am the founder and main contributor. View its [homepage][tlclpage].
 
@@ -114,7 +116,8 @@ I am a contributor for checking errors and translating English to Chinese.
 
 __2011.2~now:__ [happygrep][happygrep]
 
-The project wraps up the complicated grep command, combining with vim, then make search much easier.
+The project wraps up the complicated grep command, combining with vim, and it
+makes search much easier.
 
 I am a main contributor. View its [homepage][happygreppage].
 
@@ -123,15 +126,13 @@ __2009.3~2009.10:__ [gitsibling][gitsibling]
 The small toy is a git front-end based on QT. Its appearance is simple.
 I am the founder. 
 
-__2009.9~:__ [Tata][tata]
-
-Tata is a Qt project aiming at developing a data analysis program for
-scientific use. It contains wave form display and other data analysis
-functions. Initially designed to work on embedded platform as part of Tinylion.
-
-I am a contributor.
-
 __Go to__ [Github][github-billie] to view all my projects.
+
+### Hunting jobs
+
+Recently I mainly focus on web development and want to take on this kind of
+job. This field is full of amazing and interesting stuff. If you get a good
+idea, you can easily share it with the public. 
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
 [labview]:http://en.wikipedia.org/wiki/Labview
