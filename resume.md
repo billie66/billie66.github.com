@@ -1,6 +1,5 @@
 ---
 layout: resume 
-title: Billie Resume
 --- 
 
 ### Personal Info
@@ -136,13 +135,13 @@ __Go to__ [Github][github-billie] to view all my projects.
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
 [labview]:http://en.wikipedia.org/wiki/Labview
-[happycasts]:http://billie66.github.com/happycasts/
-[tlcl]:http://billie66.github.com/TLCL/
+[happycasts]:http://github.com/billie66/happycasts
+[tlcl]:http://github.com/billie66/TLCL
 [tlclpage]:http://billie66.github.com/TLCL/index.html
-[lgcb]:http://billie66.github.com/LGCB/
+[lgcb]:http://github.com/happypeter/LGCB
 [lgcbpage]:http://happypeter.github.com/LGCB/index.html
-[happygrep]:http://billie66.github.com/TLCL/
-[happygreppage]:http://billie66.github.com/happygrep/index.html
-[gitsibling]:http://billie66.github.com/gitsibling
-[tata]:http://billie66.github.com/tata/
+[happygrep]:http://github.com/billie66/happygrep
+[happygreppage]:http://happypeter.github.com/happygrep/index.html
+[gitsibling]:http://github.com/billie66/gitsibling
+[tata]:http://github.com/billie66/tata
 [github-billie]:http://github.com/billie66
