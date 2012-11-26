@@ -103,7 +103,7 @@ __2011.6~now:__ [TLCL][tlcl]
 
 TLCL is a chinese version of The Linux Command Line, which is an excellent
 book for Linux beginners. TLCL is a processing project aiming for helping
-chinese learners.
+chinese Linux learners.
 
 I am the founder and main contributor. View its [homepage][tlclpage].
 
@@ -116,14 +116,14 @@ I am a contributor for checking errors and translating English to Chinese.
 
 __2011.2~now:__ [happygrep][happygrep]
 
-The project wraps up the complicated grep command, combining with vim, and it
+The project wraps up the complicated grep command, combining with vim editor, and it
 makes search much easier.
 
 I am a main contributor. View its [homepage][happygreppage].
 
 __2009.3~2009.10:__ [gitsibling][gitsibling]
 
-The small toy is a git front-end based on QT. Its appearance is simple.
+The small toy is a Git front-end based on QT. Its appearance is simple.
 I am the founder. 
 
 __Go to__ [Github][github-billie] to view all my projects.
