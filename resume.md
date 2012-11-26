@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: resume 
 title: Billie Resume
 --- 
 
-## Personal Info
+### Personal Info
 
 **Name**: Billie Zhang 
 
@@ -19,11 +19,11 @@ title: Billie Resume
 
 **HomePage:** <http://billie66.github.com>
 
-## Sentence Bio
+### Sentence Bio
 
 Billie Zhang is a self-leaner and [Open Source Software][oss] fan. 
 
-## Languages 
+### Languages 
 
  - C
  - C++
@@ -33,13 +33,13 @@ Billie Zhang is a self-leaner and [Open Source Software][oss] fan.
  - bash, awk, sed 
  - html, javascript (jquery), css (sass)
 
-## Toolkit
+### Toolkit
 
  - Vim 
  - Git 
  - Ubuntu 
 
-## Education 
+### Education 
 
 __2002.9~2006.7:__ HeBei University of Science & Technology, Mechanical Design
 Manufacturing and Automation, Bachelor's Degree.
@@ -77,21 +77,19 @@ follows:
  - C++ as main language 
  - Do device driver writing, based on 2.6 kernel for Samsung s3c2410 ARM chip.  
 
-## Life Experience
+### Life Experience
 
 __2012.1 ~ now__ web development 
 
 __2008.9 ~ 2012.1__ Open Source development 
 
-__2007.9 ~ 2008.9__ Laboratory of Power Plant Equipment Condition
-Monitoring and Control, NCEPU
+__2007.9 ~ 2008.9__ Laboratory of Power Plant Equipment Condition Monitoring and Control, NCEPU
 
-__2006.8 ~ 2007.9__ Prepared for the collage admission examination for
-graduates, ShiJiaZhuang, HeBei 
+__2006.8 ~ 2007.9__ Prepared for the collage admission examination for graduates, ShiJiaZhuang, HeBei 
 
 __2006.7 ~ 2006.8__ Triangle Group, WeiHai, ShanDong.  
 
-## Project Summary
+### Project Summary
 
 __2011.6~now:__ [happycasts][happycasts]
 
