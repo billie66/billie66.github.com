@@ -21,7 +21,7 @@ title: Billie Resume
 
 ### Sentence Bio
 
-Billie Zhang is a self-leaner and [Open Source Software][oss] fan. 
+Billie Zhang is a girl, self-leaner and [Open Source Software][oss] fan. 
 
 ### Languages 
 
