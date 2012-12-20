@@ -4,10 +4,10 @@ layout: post
 
 Luckily, Steven finally took part in the [English Corner](http://www.happyec.org),
 and reached there in time. He had his hair cut off, so he looked more
-energetic and younger than the last time we met him. On the other hand, Almost
+energetic and younger than the last time we met him. On the other hand, almost
 no students knew this activity, peter just announced the event on his small
 website only with 10 users, so that I had to tell all of the customers of the
-Bookbar Coffee to join our group. The good news was almost every customer was
+Bookbar Cafe to join our group. The good news was nearly every customer was
 interested in speaking English with a foreigner, and we got more than six
 people to talk with Steven. 
 
@@ -22,5 +22,4 @@ good chance to speak English face to face with a foreigner.
 The time passed so quickly. Two hours later, we said goodbye to Steven. As far
 as I can concerned, the whole talk was very happy, active and relaxing, and I
 found my English level was much better than before.  
-
 
