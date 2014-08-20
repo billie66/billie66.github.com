@@ -1,16 +1,10 @@
-/*
-
-	terrafirma1.0 by nodethirtythree design
-	http://www.nodethirtythree.com
-        
-*/
 body {
   background-color: #d0e4fe;
   color: #393939;
   font-family: Helvetica, Arial, FreeSans, sans-serif;
   line-height: 1.8;
-  margin-left: 200px;
-  margin-right: 200px;
+  max-width: 800px;
+  margin: 0 auto 20px;
 }
 
 /*Remove the line under links*/

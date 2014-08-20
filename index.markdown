@@ -3,13 +3,11 @@ layout: default
 ---
 <br/>
 <h1 style="text-align:center">Billie HomePage</h1>
-
 <br />
 
 <p>
-Welcome, I am Billie Zhang, an open source enthusiast and a self-learner. 
+  Welcome, I am Billie Zhang, an open source enthusiast and a RoR fan.
 </p>
-
 
 <p><br /><b>My Blog:</b></p>
   <ul class="posts">
@@ -20,16 +18,14 @@ Welcome, I am Billie Zhang, an open source enthusiast and a self-learner.
 
 <p><br /><b>My Project</b></p>
 <ul>
-<li><a href="https://github.com/billie66">Github</a></li>
-<li><a href="http://billie66.github.com/TLCL/index.html">Book</a></li>
-<li><a href="http://happypeter.github.com/happygrep/index.html">happygrep</a></li>
+  <li><a href="https://github.com/billie66">Github</a></li>
+  <li><a href="http://billie66.github.com/TLCL/index.html">Book</a></li>
+  <li><a href="https://github.com/happypeter/happygrep">happygrep</a></li>
 </ul>
 
 <p><br /><b>Contact Information:</b></p>
 <blockquote>
-<p>
-billiecoder at gmail.com
-</p>
+  <p>billiecoder at gmail.com</p>
 </blockquote>
 
 
