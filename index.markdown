@@ -20,7 +20,6 @@ layout: default
 <ul>
   <li><a href="https://github.com/billie66">Github</a></li>
   <li><a href="http://billie66.github.com/TLCL/index.html">Book</a></li>
-  <li><a href="https://github.com/happypeter/happygrep">happygrep</a></li>
 </ul>
 
 <p><br /><b>Contact Information:</b></p>
