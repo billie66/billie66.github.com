@@ -25,3 +25,11 @@ h3 {
   font-size: 1.2em; 
 }
 
+.home {
+  margin-top: 50px;
+}
+
+.post-title {
+  text-align: center;
+  margin-bottom: 30px;
+}

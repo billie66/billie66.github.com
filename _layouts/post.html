@@ -4,9 +4,15 @@
 <link rel="stylesheet" type="text/css" href="./css/billie.css" />
 <title>BillieHome</title>
 </head>
-<a href="index.html">HOME</a>
-<h1 style="text-align:center">{{ page.title }}</h1>
+
+<div class="home">
+  <a href="index.html">HOME</a>
+</div>
+
+<h1 class="post-title">{{ page.title }}</h1>
+
 {{ content }}
+
 <!-- disqus begin -->
 
 <div id="disqus_thread"></div>
@@ -14,13 +20,15 @@
   /**
    *     * var disqus_identifier; [Optional but recommended: Define a unique
    *     identifier (e.g. post id or slug) for this thread]
-   *         */
+   */
     (function() {
-           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-              dsq.src = 'http://bilihome.disqus.com/embed.js';
-                 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-                   })();
-                   </script>
+      var dsq = document.createElement('script');
+      dsq.type = 'text/javascript';
+      dsq.async = true;
+      dsq.src = 'http://bilihome.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
 
 <!-- disqus end -->
 </html>
