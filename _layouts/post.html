@@ -1,17 +1,18 @@
-<html>
-<head>
-<link rel="icon" type="image/png" href="./images/billi66.png" />
-<link rel="stylesheet" type="text/css" href="./css/billie.css" />
-<title>BillieHome</title>
-</head>
+---
+layout: default
+---
+<div class="post">
 
-<div class="home">
-  <a href="index.html">HOME</a>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
 </div>
-
-<h1 class="post-title">{{ page.title }}</h1>
-
-{{ content }}
 
 <!-- disqus begin -->
 
@@ -31,4 +32,4 @@
 </script>
 
 <!-- disqus end -->
-</html>
+

@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-<br/>
-<h1 style="text-align:center">Billie HomePage</h1>
-<br />
-
 <p>
   Welcome, I am Billie Zhang, an open source enthusiast and a RoR fan.
 </p>
@@ -21,10 +17,4 @@ layout: default
   <li><a href="https://github.com/billie66">Github</a></li>
   <li><a href="http://billie66.github.com/TLCL/index.html">Book</a></li>
 </ul>
-
-<p><br /><b>Contact Information:</b></p>
-<blockquote>
-  <p>billiecoder at gmail.com</p>
-</blockquote>
-
 
